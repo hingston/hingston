@@ -90,13 +90,15 @@
   <marker location="Brussels, Ontario" lat="43.746378" lng="-81.248124" mknum="3" minv="9" maxv="17" text="William Gillard Hingston emigrated here" linkt="Tree HH" linkh="hh.htm#hh7"/>
   <marker location="Victoria Sq, Ontario" lat="43.904073" lng="-79.371736" mknum="3" minv="9" maxv="17" text="William Gillard Hingston emigrated here" linkt="Tree HH" linkh="hh.htm#hh7"/>
   <marker location="Dawson City, Yukon" lat="64.064355" lng="-139.432082" mknum="3" minv="9" maxv="17" text="W H Hingston, tinsmith during gold rush" linkt="Tree HH" linkh="hh.htm#hh12"/>
-  <marker location="near Cavell" lat="52.230596" lng="-108.585541" mknum="3" minv="9" maxv="17" text="Freke Wolfe Hingston Farm" linkt="hn.htm#hn34" linkh=""/>
+  <marker location="near Cavell" lat="52.230596" lng="-108.585541" mknum="3" minv="9" maxv="17"
+          text="Freke Wolfe Hingston Farm" linkt="" linkh="hn.htm#hn34"/>
   <marker location="New Zealand" lat="-42" lng="172.6" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
   <marker location="Te Puke" lat="-37.782383" lng="176.319580" mknum="3" minv="9" maxv="17" text="Thomas Hingston emigrated here in 1882" linkt="TRee HD No 80" linkh="hd.htm#hd80"/>
   <marker location="Te Wairoa" lat="-35.251621" lng="174.071551" mknum="3" minv="9" maxv="17" text="Final home of William George Cornelius Hingston" linkt="Tree HX#3" linkh="hingnewzealand.htm#hx3"/>
   <marker location="Barbados" lat="13.195660" lng="-59.492340" mknum="1" minv="0" maxv="5" text="Hingstons in St Johns parish" linkt="University page" linkh="hinguniv.htm"/>
   <marker location="USA" lat="39" lng="-100" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
-  <marker location="Rockland" lat="44.107398" lng="-69.109741" mknum="3" minv="9" maxv="17" text="William Hingston built ships here" linkt="Tree HN No 22" linkh="hn.htm'hn22"/>
+  <marker location="Rockland" lat="44.107398" lng="-69.109741" mknum="3" minv="9" maxv="17"
+          text="William Hingston built ships here" linkt="Tree HN No 22" linkh="hn.htm#hn22"/>
   <marker location="Lynn, Massachusetts" lat="42.468551" lng="-70.958373" mknum="3" minv="9" maxv="17" text="Several links in Tree HN" linkt="Tree HN" linkh="hn.htm"/>
   <marker location="Thomaston, Maine" lat="44.078892" lng="-69.182711" mknum="3" minv="9" maxv="17" text="Birthplace of Edward J Hingston" linkt="Tree HN#27" linkh="hn.htm#hn27"/>
   <marker location="Buffalo" lat="42.882800" lng="-78.876179" mknum="3" minv="9" maxv="17" text="John Townsend Hingston settled here" linkt="Tree HN No 24" linkh="hn.htm#hn24"/>
@@ -104,12 +106,14 @@
   <marker location="Hinkston Station, KY" lat="38.334116" lng="-84.276638" mknum="3" minv="9" maxv="17" text="Frontier station" linkt="Col Hinkson (pdf)" linkh="hinkson.pdf"/>
   <marker location="Australia" lat="-28" lng="138" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
   <marker location="Panmure" lat="-38.337028" lng="142.727074" mknum="3" minv="9" maxv="17" text="Site of Edwin Hingston's drowning" linkt="" linkh="hv.htm#hv2"/>
-  <marker location="Warrnambool" lat="-38.384795" lng="142.486066" mknum="3" minv="9" maxv="17" text="Tree HV" linkt="hv.htm#hv#2" linkh="hv.htm/hv2"/>
+  <marker location="Warrnambool" lat="-38.384795" lng="142.486066" mknum="3" minv="9" maxv="17" text="Tree HV"
+          linkt="hv.htm#hv#2" linkh="hv.htm#hv2"/>
   <marker location="Longford, Tasmania" lat="-41.594624" lng="147.121949" mknum="3" minv="9" maxv="17" text="James Hingston settled here in 1842" linkt="Tree HD" linkh="hd.htm#hd33"/>
   <marker location="Ireland" lat="53.4" lng="-8.3" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
   <marker location="Castle Freke" lat="51.573336" lng="-8.963041" mknum="3" minv="9" maxv="17" text="Freke family" linkt="Tree HN No 33" linkh="hn.htm#hn33"/>
   <marker location="Roscarbery" lat="51.576189" lng="-9.035568" mknum="3" minv="9" maxv="17" text="Uncertain connection" linkt="Tree HN No 33" linkh="hn.htm#hn33"/>
-  <marker location="Cunnamore" lat="51.510025" lng="-9.422665" mknum="3" minv="9" maxv="17" text="Home to Samuel Hingston" linkt="Tree HN No 34" linkh="hn.htm#34"/>
+  <marker location="Cunnamore" lat="51.510025" lng="-9.422665" mknum="3" minv="9" maxv="17"
+          text="Home to Samuel Hingston" linkt="Tree HN No 34" linkh="hn.htm#hn34"/>
   <marker location="Danesfort, Kilpadder" lat="52.098669" lng="-8.704090" mknum="3" minv="9" maxv="17" text="Residence of Rev James Hingston" linkt="Tree HN No 8" linkh="hn.htm#hn8"/>
   <marker location="Kilshannig" lat="52.121035" lng="-8.708810" mknum="3" minv="9" maxv="17" text="Parish Church of Rev James Hingston" linkt="Tree HN No 8" linkh="hn.htm#hn8"/>
   <marker location="Dublin" lat="53.347881" lng="-6.253452" mknum="3" minv="9" maxv="17" text="Edward Hingston built ships here" linkt="Tree HN No 25" linkh="hn.htm#hn25"/>
@@ -149,41 +153,37 @@
   <marker location="Lyme Regis" lat="50.7257" lng="-2.9317" mknum="3" minv="9" maxv="17" text="" linkt="Probable link to the HM Hingstons" linkh="hm.htm#hm20"/>
   <marker location="Deptford St. Nicholas" lat="51.482000" lng="-0.022716" mknum="3" minv="9" maxv="17" text="Edward Hingston married Lucretia Sewell 1772" linkt="HN#9" linkh="hn.htm#hn9"/>
 
-<marker location="Landulph" lat="50.4324" lng="-4.2104" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="St Austell" lat="50.3384" lng="-4.7921" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="St Mewan" lat="%0.3325" lng="-4.8139" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="Boswase" lat="50.1660" lng="-5.5057" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="Landulph" lat="50.4324" lng="-4.2104" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="St Austell" lat="50.3384" lng="-4.7921" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="St Mewan" lat="50.3325" lng="-4.8139" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="Boswase" lat="50.1660" lng="-5.5057" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
 
-<marker location="St Germans" lat="50.3966" lng="-4.3097" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="Tywardreath" lat="50.3575" lng="-4.69367" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="Fowey" lat="50.33536" lng="-4.63561" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="St Austell" lat="50.3384" lng="-4.7920" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="St Mewan" lat="50.3325" lng="-4.8139" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="Creed" lat="50.2887" lng="-4.90037" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="Grampound" lat="50.29855" lng="-4.8996" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="St Ewe" lat="50.2796" lng="-4.8395" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="St Just in Roseland" lat="50.18207" lng="-5.01515" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
-<marker location="Landulph" lat="50.43242" lng="-4.21042" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="St Germans" lat="50.3966" lng="-4.3097" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="Tywardreath" lat="50.3575" lng="-4.69367" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="Fowey" lat="50.33536" lng="-4.63561" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <!-- Duplicate St Austell and St Mewan entries that are identical to ones above and empty could be removed, but kept for now unless explicitly asked -->
+  <!-- <marker location="St Austell" lat="50.3384" lng="-4.7920" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/> -->
+  <!-- <marker location="St Mewan" lat="50.3325" lng="-4.8139" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/> -->
+  <marker location="Creed" lat="50.2887" lng="-4.90037" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="Grampound" lat="50.29855" lng="-4.8996" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="St Ewe" lat="50.2796" lng="-4.8395" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="St Just in Roseland" lat="50.18207" lng="-5.01515" mknum="3" minv="9" maxv="17" text="" linkt=""
+          linkh=""/>
+  <!-- Duplicate Landulph, virtually identical, one can be removed, kept for now -->
+  <!-- <marker location="Landulph" lat="50.43242" lng="-4.21042" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/> -->
 
-<marker location="Cubert" lat="50.37792" lng="-5.11518" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="Cubert" lat="50.37792" lng="-5.11518" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
 
-<marker location="St Agnes" lat="50.31239" lng="-5.20328" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="St Agnes" lat="50.31239" lng="-5.20328" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
 
-<marker location="St Stephen in Brannel" lat="50.34926" lng="-4.88963" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="St Stephen in Brannel" lat="50.34926" lng="-4.88963" mknum="3" minv="9" maxv="17" text="" linkt=""
+          linkh=""/>
 
-<marker location="Bunn" lat="54.173907" lng="-7.407446" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="Bunn" lat="54.173907" lng="-7.407446" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
 
-<marker location="Drumgorry" lat="54.096944" lng="-7.358888" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="Drumgorry" lat="54.096944" lng="-7.358888" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
 
-<marker location="Rosewarne" lat="50.2216" lng="-5.2962" mknum="3" minv="9" maxv="17" text="Probable location of Wheal Rosewarne" linkt="HU#23" linkh="hu.htm#hu23"/>
-
-
-
-
- 
-  
-  
-<marker location="" lat="" lng="" mknum="3" minv="9" maxv="17" text="" linkt="" linkh=""/>
+  <marker location="Rosewarne" lat="50.2216" lng="-5.2962" mknum="3" minv="9" maxv="17"
+          text="Probable location of Wheal Rosewarne" linkt="HU#23" linkh="hu.htm#hu23"/>
 
 </markers>
-
