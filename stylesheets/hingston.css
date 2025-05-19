@@ -1,0 +1,30 @@
+@charset "utf-8";
+table, th, td {
+	border: 1px solid black;
+}
+.noBorder {
+	border: none;
+}
+.noBullet {
+	list-style-type: none;
+}
+.red {
+	color: red;
+}
+.redBold {
+	color: red;
+	font-weight: bold;
+}
+.green {
+	color: #00dd00;
+}
+.greenBold {
+	color: green;
+	font-weight: bold;
+}
+.purple {
+	color: purple;
+}
+.letter {
+	text-align: right;
+}

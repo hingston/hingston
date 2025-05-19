@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<markers>
+  <marker location="Garabit" lat="44.975278" lng="3.1775" mknum="1" minv="0" maxv="5" text="By Eiffel" linkt="Structurae.de" linkh="http://en.structurae.de/files/photos/1927/france/20052073.jpg"/>
+  <marker location="Millau" lat="44.079444" lng="3.02222" mknum="1" minv="0" maxv="5" text="" linkt="Photo" linkh="http://images.businessweek.com/ss/06/01/wonders_bigdigs/image/millau_viaduct.jpg"/>
+  <marker location="Boutiron" lat="46.153802" lng="3.409914" mknum="1" minv="0" maxv="5" text="Where Freyssinet discovered Creep" linkt="Photo" linkh="http://www-civ.eng.cam.ac.uk/research/cjbimages/boutiron.jpg"/>
+  <marker location="Pont du Gard" lat="43.94747" lng="4.534971" mknum="1" minv="0" maxv="5" text="Roman Aqueduct" linkt="Photo" linkh="http://www.avignon-et-provence.com/tourisme/pont-du-gard/img/pont-du-gard-12.jpg"/>
+  <marker location="Viaur" lat="44.123797" lng="2.331204" mknum="1" minv="0" maxv="5" text="" linkt="Photo" linkh="http://cafcom.free.fr/IMG/jpg/viaur02.jpg"/>
+  <marker location="Garde-Adhemar" lat="44.373810" lng="4.729474" mknum="1" minv="0" maxv="5" text="Unusual Bridge on TGV" linkt="Structurae.de" linkh="http://fr.structurae.de/files/photos/64/lgv_mediterranee_la_garde_adhemar/le_viaduc_lgv_de_la_garde_adhemar_sur_le_canal_de_donzere_ensemble.jpg"/>
+  <marker location="Avignon TGV" lat="43.934503" lng="4.756651" mknum="1" minv="0" maxv="5" text="" linkt="Bridge image" linkh="http://www.planete-tp.com/en/IMG/jpg/9_cle61a5ab-3.jpg"/>
+  <marker location="Pont de Avignon" lat="43.953987" lng="4.804729" mknum="1" minv="0" maxv="5" text="Roman Bridge" linkt="Photo" linkh="http://www.bugbog.com/images/galleries/france-pictures-guide/avignon-france-photos/avignon-bridge.jpg"/>
+  <marker location="Luzancy" lat="48.970789" lng="3.190949" mknum="1" minv="0" maxv="5" text="Early Freyssinet PSC" linkt="Structurae.de" linkh="http://en.structurae.de/files/photos/64/luzancy01.jpg"/>
+  <marker location="Esbly" lat="48.911766" lng="2.815246" mknum="1" minv="0" maxv="5" text="Early Freyssinet PSC" linkt="Structurae.de" linkh="http://en.structurae.de/files/photos/3076/dscn6943.jpg"/>
+  <marker location="Salginatobel" lat="46.981719" lng="9.718212" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
+  <marker location="Rossgraben" lat="46.827835" lng="7.398235" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
+  <marker location="Schwandbach" lat="46.829394" lng="7.402318" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
+  <marker location="Traubach" lat="46.730437" lng="7.866339" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
+  <marker location="Bohlbach" lat="46.732327" lng="7.869784" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
+  <marker location="Strahlegger" lat="46.912477" lng="9.766604" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
+  <marker location="Sinderbeg" lat="46.885403" lng="9.856710" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
+  <marker location="Suransuns" lat="46.657318" lng="9.450061" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
+  <marker location="Traversina" lat="46.672843" lng="9.453714" mknum="1" minv="0" maxv="5" text="" linkt="" linkh=""/>
+</markers>
