@@ -33,7 +33,7 @@ The original website was hosted by Emmanuel College, Cambridge, at `https://cjb.
 
 ## Navigating the Website
 
-The main entry point to the website is `hingston.htm` (or `index.htm`). The site also features a `sitemap.htm` page which lists all pages on the site and can be very helpful for navigation.
+The main entry point to the website is `index.html`. The site also features a `sitemap.htm` page which lists all pages on the site and can be very helpful for navigation.
 
 **Note on Search Functionality:** The original site included a search page (`hingsearch.htm`) that utilized Google to search the pages. As the site is now hosted statically on a new domain, this specific search implementation may no longer function as originally intended without adjustments.
 
