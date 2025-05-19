@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: http://genealogy.hingston.org/sitemap.xml
