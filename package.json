@@ -1,0 +1,24 @@
+{
+  "name": "hingston",
+  "version": "1.0.0",
+  "description": "This repository contains the complete static HTML website for the Hingston One-Name Study, originally created and meticulously maintained from approximately 1995 by the late Dr. Chris Burgoyne (d. 2024). The study is a comprehensive genealogical resource dedicated to researching and documenting individuals and families bearing the Hingston surname (and its variants) across the globe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hingston/hingston.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hingston/hingston/issues"
+  },
+  "homepage": "https://github.com/hingston/hingston#readme",
+  "devDependencies": {
+    "html-minifier": "^4.0.0",
+    "prettier": "^3.5.3"
+  }
+}

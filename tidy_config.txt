@@ -1,0 +1,16 @@
+// Tidy Configuration File
+output-html: yes
+doctype: html5
+clean: no             // Set to 'yes' if you want Tidy to remove presentational tags like <font>
+logical-emphasis: yes
+indent: auto
+indent-spaces: 2
+wrap: 0
+vertical-space: auto
+tidy-mark: no
+show-warnings: yes
+force-output: yes      // Output even if errors are found (Tidy will try to fix them)
+quiet: no
+char-encoding: utf8
+input-encoding: utf8
+output-encoding: utf8
