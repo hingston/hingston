@@ -125,7 +125,13 @@ check_deps:
 lint: check_deps format minify
 	@echo ">>> Running final formatting pass (Tidy and Prettier)..."
 	$(MAKE) format # Explicitly call the format target again
-	@echo "Linting, formatting, and minifying complete."
+	@echo ">>> Performing final cleanup: Ensuring no space between closing tag and period..."
+	$(HTML_FILES_FIND_CMD) -print0 | bash -c \
+	'while IFS= read -r -d "" file; do \
+		echo "Cleaning up spaces for: $$file"; \
+		LC_ALL=C sed -i "s/>[[:space:]]*\./>./g" "$$file"; \
+	done'
+	@echo "Linting, formatting, minifying, and final cleanup complete."
 
 format:
 	@echo ">>> Formatting: Running HTML Tidy..."
