@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://genealogy.hingston.org/</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-07-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -416,7 +416,7 @@
     </url>
     <url>
         <loc>https://genealogy.hingston.org/iabsemap.htm</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-07-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -452,7 +452,7 @@
     </url>
     <url>
         <loc>https://genealogy.hingston.org/jamesdiscussion.htm</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-07-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -470,7 +470,7 @@
     </url>
     <url>
         <loc>https://genealogy.hingston.org/jameswill.htm</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-07-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -614,7 +614,7 @@
     </url>
     <url>
         <loc>https://genealogy.hingston.org/plymptondeanery.htm</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-07-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority> <!-- Data file -->
     </url>
@@ -716,7 +716,7 @@
     </url>
     <url>
         <loc>https://genealogy.hingston.org/threetownsbaptismsburials.htm</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-07-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority> <!-- Data file -->
     </url>
@@ -824,7 +824,7 @@
     </url>
     <url>
         <loc>https://genealogy.hingston.org/will1802.htm</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-07-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -836,7 +836,7 @@
     </url>
     <url>
         <loc>https://genealogy.hingston.org/woodleighdeanery.htm</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-07-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority> <!-- Data file -->
     </url>
