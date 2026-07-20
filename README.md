@@ -29,7 +29,7 @@ The Hingston One-Name Study includes a wealth of information, such as:
 
 ## Original Website
 
-The original website was hosted by Emmanuel College, Cambridge, at `https://cjb.emma.cam.ac.uk/hingston/`. This repository is an effort to ensure its continued availability and future development by the community.
+The original website was hosted by Emmanuel College, Cambridge, at `cjb.emma.cam.ac.uk/hingston/` (now offline). The site now lives permanently at [https://genealogy.hingston.org/](https://genealogy.hingston.org/). This repository is an effort to ensure its continued availability and future development by the community.
 
 ## Navigating the Website
 
