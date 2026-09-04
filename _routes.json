@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/images/*",
+    "/scripts/*",
+    "/stylesheets/*",
+    "/pagefind/*",
+    "/xml/*",
+    "/other/*",
+    "/robots.txt",
+    "/sitemap.xml",
+    "/ruddlesforter.pdf",
+    "/smaldonereport.pdf",
+    "/blank_Blog-Elizabeth-Wonwell-tree.png",
+    "/LICENSE.md",
+    "/Makefile",
+    "/README.md",
+    "/package.json",
+    "/package-lock.json",
+    "/tidy_config.txt"
+  ]
+}

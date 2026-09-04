@@ -2,7 +2,6 @@
 ._*
 .Spotlight-V100
 .Trashes
-Thumbs.db
 ehthumbs.db
 Desktop.ini
 .vscode/
@@ -10,3 +9,4 @@ Desktop.ini
 *.swp
 *~
 node_modules
+Thumbs*.db
