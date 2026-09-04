@@ -1,23 +1,26 @@
 {
   "version": 1,
-  "include": ["/*"],
+  "include": [
+    "/*"
+  ],
   "exclude": [
-    "/images/*",
-    "/scripts/*",
-    "/stylesheets/*",
-    "/pagefind/*",
-    "/xml/*",
-    "/other/*",
-    "/robots.txt",
-    "/sitemap.xml",
-    "/ruddlesforter.pdf",
-    "/smaldonereport.pdf",
-    "/blank_Blog-Elizabeth-Wonwell-tree.png",
+    "/BingSiteAuth.xml",
     "/LICENSE.md",
     "/Makefile",
     "/README.md",
-    "/package.json",
+    "/blank_Blog-Elizabeth-Wonwell-tree.png",
+    "/images/*",
+    "/other/*",
     "/package-lock.json",
-    "/tidy_config.txt"
+    "/package.json",
+    "/pagefind/*",
+    "/robots.txt",
+    "/ruddlesforter.pdf",
+    "/scripts/*",
+    "/sitemap.xml",
+    "/smaldonereport.pdf",
+    "/stylesheets/*",
+    "/tidy_config.txt",
+    "/xml/*"
   ]
 }
