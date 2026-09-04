@@ -1,0 +1,26 @@
+# Cloudflare Pages serves static assets with
+#   Cache-Control: public, max-age=72000, must-revalidate
+# must-revalidate makes the edge check with the origin on every single request,
+# so repeat requests return cf-cache-status REVALIDATED and never HIT. These
+# rules drop must-revalidate so the edge can actually serve from cache.
+#
+# Note: _headers does not apply to responses produced by a Pages Function, so
+# these paths must also be listed in the exclude array of _routes.json.
+
+/images/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+/stylesheets/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=86400
+
+/scripts/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=86400
+
+/pagefind/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=86400
+
+/xml/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=86400
+
+/other/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400

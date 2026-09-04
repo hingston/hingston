@@ -271,12 +271,6 @@
         <priority>0.3</priority> <!-- May not work -->
     </url>
     <url>
-        <loc>https://genealogy.hingston.org/hingstonbirths18xx.htm</loc>
-        <lastmod>2026-07-10</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority> <!-- Data file -->
-    </url>
-    <url>
         <loc>https://genealogy.hingston.org/hingstondeaths18xx.htm</loc>
         <lastmod>2026-07-10</lastmod>
         <changefreq>monthly</changefreq>
@@ -625,19 +619,7 @@
         <priority>0.5</priority> <!-- Data file -->
     </url>
     <url>
-        <loc>https://genealogy.hingston.org/prcond.htm</loc>
-        <lastmod>2026-07-10</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority> <!-- Data file -->
-    </url>
-    <url>
         <loc>https://genealogy.hingston.org/prconp.htm</loc>
-        <lastmod>2026-07-10</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority> <!-- Data file -->
-    </url>
-    <url>
-        <loc>https://genealogy.hingston.org/prdevd.htm</loc>
         <lastmod>2026-07-10</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority> <!-- Data file -->
